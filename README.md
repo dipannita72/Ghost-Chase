@@ -1,5 +1,5 @@
 # Ghost Chase
- A python maze game
+ A python maze game inspired by the famous PacMan game where ghosts are made sure follows path finding searching algorithm.
 
 
 
